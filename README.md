@@ -1,4 +1,3 @@
-# Bee_Adventures
 <h1>Bee Adventures</h1>
 Bee Adventure is a game boy advanced game using c++ butano library.
 <h1>Features</h1>
