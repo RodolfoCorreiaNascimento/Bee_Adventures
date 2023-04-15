@@ -1,4 +1,5 @@
 <h1>Bee Adventures</h1>
+![](Bee_Adventures/screenshoots/bee_01.jpg)
 Bee Adventure is a game boy advanced game using c++ butano library.
 <h1>Features</h1>
 <h1>Getting started</h1>
